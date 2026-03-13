@@ -1,1 +1,1 @@
-I can't code.
+This repository is a collection of scripts and projects that I am currently working on or have completed.
